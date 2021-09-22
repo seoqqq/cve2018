@@ -56,7 +56,7 @@ Then you should host the malicious package (.so & main.go) in public Github repo
 
 The malicious package will executed after:
 
-```go
+```bash
 go get github.com/XXXXX/XXXX
 ```
 
